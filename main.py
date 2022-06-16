@@ -1,3 +1,6 @@
+## Descargo y procedo a revisar y calificar.
+
+
 #DDI CLASS
 print("Francisco Javier Tapia Rivera-9°A-DDI-03/06")
 
